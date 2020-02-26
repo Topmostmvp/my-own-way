@@ -1,3 +1,4 @@
+[1. 目录1](#1)
 # my-own-way
 ## gfgggg
 - [x] fgfgfgfgfg
