@@ -1,4 +1,4 @@
-[1. 学习python](#1)  
+[1. 学习python](#1)
 [1.1 基础部分](#1.1)
 # my-own-way
 ## gfgggg
